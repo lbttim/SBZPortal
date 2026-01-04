@@ -1,6 +1,6 @@
-# 🦅 Sokol — Advanced Drone Operations Platform
+# 🦅 SBZ Portal — Advanced Drone Operations Platform
 
-**Sokol** (previously known as *SBZ Portal*) is a web-based platform designed to connect and manage **DJI drones** through the **DJI Cloud API**.  
+**SBZ Portal** is a web-based platform designed to connect and manage **DJI drones** through the **DJI Cloud API**.  
 Built for professional drone operators — especially **firefighting and emergency services** — Sokol provides a secure environment for **real-time telemetry, mission control, and flight data management**.
 
 ---
@@ -65,7 +65,7 @@ Built for professional drone operators — especially **firefighting and emergen
 
 ## 🚧 Development Status
 
-Sokol is currently in a **closed testing phase**, accessible only to partner firefighting units and early evaluators.  
+SBZ Portal is currently in a **closed testing phase**, accessible only to partner firefighting units and early evaluators.  
 Future updates will expand functionality, language support, and integration options within DJI’s evolving Cloud ecosystem.
 
 ---
