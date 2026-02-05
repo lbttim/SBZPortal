@@ -48,9 +48,9 @@ Built for professional drone operators — especially **firefighting and emergen
 
 > Below are examples of key sections of the Sokol web app interface.
 
-| Connected Drones | Flight History | Flight Report |
+| Connected Drones | Flight History | Live Map |
 |:----------------:|:---------------:|:--------------:|
-| ![Insert screenshot here](screenshots/home.png) | ![Insert screenshot here](screenshots/history.png) | ![Insert screenshot here](screenshots/report.png) |
+| ![Insert screenshot here](screenshots/home.png) | ![Insert screenshot here](screenshots/history.png) | ![Insert screenshot here](screenshots/map.png) |
 
 ---
 
