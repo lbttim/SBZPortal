@@ -1,79 +1,78 @@
-#  SBZ Portal — Advanced Drone Operations Platform
+# 🪁 Kite — Advanced Drone Operations Platform
 
-**SBZ Portal** is a web-based platform designed to connect and manage **DJI drones** through the **DJI Cloud API**.  
-Built for professional drone operators — especially **firefighting and emergency services** — Sokol provides a secure environment for **real-time telemetry, mission control, and flight data management**.
+**Kite** is a sophisticated web-based hub designed for the seamless management of **DJI drones** via the **DJI Cloud API**. Engineered for high-stakes professional environments—specifically **firefighting and emergency services**—Kite provides a secure, low-latency ecosystem for **real-time telemetry, mission command, and flight data intelligence**.
 
 ---
 
-## 🚁 Key Features
+## 🚁 Core Capabilities
 
-### 🔗 DJI Cloud API Integration
-- Direct connection with DJI drones through the **official DJI Cloud API**.
-- Access **real-time telemetry data** such as position, altitude, battery level, and flight mode.
-- Perform remote operations including **starting or stopping live streams**, and other DJI Cloud–supported actions.
+### 🔗 DJI Cloud API Native Integration
+* **Direct Sync:** Seamlessly hooks into DJI drones using the **official DJI Cloud API**.
+* **Live Telemetry:** Monitor critical data points including GPS position, altitude, battery health, and flight modes in real time.
+* **Remote Execution:** Trigger cloud-supported actions like starting/stopping live streams or mission parameters directly from the web interface.
 
-### 🧭 Mission Monitoring
-- Monitor all **connected drones** in real time from a centralized dashboard.
-- View detailed drone statuses and mission parameters.
-- Supports **multi-drone operations**, ideal for firefighting coordination and emergency management.
+### 🧭 Mission Oversight & Coordination
+* **Centralized Command:** Manage an entire fleet from a single, intuitive dashboard.
+* **Multi-Drone Support:** Synchronize multiple aircraft simultaneously—essential for large-scale firefighting and search & rescue (SAR) coordination.
+* **Status Tracking:** Get instant visual feedback on every connected unit's health and mission progress.
 
-### 📺 Live Streaming & Media Management
-- **Start and manage live video streams** from connected DJI drones.
-- **Restream** live footage to other authorized devices or command centers.
-- **Record and store streams** for post-mission review.
-- Access all recorded videos, photos, and media files in an integrated **Media Library**.
-- Replay, download, and analyze captured footage directly from the platform.
+### 📺 Streaming & Digital Asset Management
+* **Live Broadcast:** Initiate and manage high-definition video streams from the field.
+* **Intelligent Restreaming:** Relay live footage to remote command centers or authorized mobile devices.
+* **Integrated Media Library:** A unified vault for recorded streams, photos, and mission media.
+* **Post-Mission Analysis:** Replay, download, and review captured footage to improve future response strategies.
 
-### 📊 Flight Data & Reporting
-- Automatically logs all flight activity for each drone and user.
-- Generate **comprehensive PDF flight reports** for recordkeeping or regulatory needs.
-- Enables easy export and sharing of mission documentation.
+### 📊 Flight Intelligence & Compliance
+* **Automated Logging:** Every flight, pilot action, and drone movement is automatically indexed.
+* **PDF Reporting:** Generate professional, audit-ready flight reports for regulatory compliance or internal debriefs.
+* **Data Export:** Easily share mission documentation across organizational departments.
 
-### 👩‍🚒 Designed for Firefighting and Emergency Services
-- Optimized for **real-time aerial support** in firefighting and search & rescue operations.
-- Facilitates coordination between drone operators and ground teams.
-- Restricted, secure access for verified emergency response units.
+### 👩‍🚒 Emergency Response Optimization
+* **Field-Tested:** Tailored for the chaotic environments of emergency services.
+* **Ground-to-Air Synergy:** Bridging the communication gap between drone pilots and ground-based incident commanders.
+* **Secure Access:** Hardened entry points restricted to verified emergency response personnel.
 
 ---
 
 ## 🌍 Interface & Availability
 
-- **Language:** Currently available in **Slovenian** 🇸🇮  
-- **Access:** Restricted to approved organizational users (closed beta)  
-- **Platform:** Web application — works on modern browsers
+* **Language:** Currently localized in **Slovenian** 🇸🇮
+* **Access:** Restricted to approved organizational users (Closed Beta).
+* **Platform:** Responsive Web App — optimized for modern desktop and tablet browsers.
 
 ---
 
-## 🖼️ Screenshots
+## 🖼️ Interface Preview
 
-> Below are examples of key sections of the web app interface.
+> A glimpse into the Kite command center.
 
 | Connected Drones | Flight History | Live Map |
-|:----------------:|:---------------:|:--------------:|
-| ![Insert screenshot here](screenshots/home.png) | ![Insert screenshot here](screenshots/history.png) | ![Insert screenshot here](screenshots/map.png) |
+| :---: | :---: | :---: |
+| ![Connected Drones](screenshots/home.png) | ![Flight History](screenshots/history.png) | ![Live Map](screenshots/map.png) |
 
 ---
 
-## 🔒 Security & Data Handling
+## 🔒 Security & Data Sovereignty
 
-- End-to-end **encrypted communication** between drones and the platform  
-- **Role-based authentication** and secure user management  
-- Controlled media access for authorized operators only  
-- All stored flight and media data remain within the organization’s secure environment  
+* **End-to-End Encryption:** All communication between the DJI hardware and the Kite platform is fully encrypted.
+* **RBAC (Role-Based Access Control):** Granular permissions ensure operators only see the data relevant to their rank or mission.
+* **Sovereign Data Storage:** Flight logs and sensitive media remain within the organization’s controlled environment.
 
 ---
 
-## 🚧 Development Status
+## 🚧 Roadmap & Development
 
-SBZ Portal is currently in a **closed testing phase**, accessible only to partner firefighting units and early evaluators.  
-Future updates will expand functionality, language support, and integration options within DJI’s evolving Cloud ecosystem.
+Kite is currently in **Closed Beta**, undergoing rigorous field testing with partner firefighting units. 
 
-Note: Want to be notified when the repo goes live? Drop me a message or "Watch" this project!
+**Coming Soon:**
+* Expanded multi-language support.
+* Advanced AI-assisted thermal analysis.
+* Deeper integration with the evolving DJI Cloud ecosystem.
+
+> **Note:** Want to be notified when the repository goes public? **"Watch"** this project for updates!
 
 ---
 
 ## 📬 Contact & Inquiries
 
-Feel free to contact me for more info!
-
-
+Have questions or interested in a partnership? Reach out to discuss how Kite can elevate your drone operations.
