@@ -1,6 +1,6 @@
-# 🪁 Kite — Advanced Drone Operations Platform
+# 🪁 SBZPortal — Advanced Drone Operations Platform
 
-**Kite** is a sophisticated web-based hub designed for the seamless management of **DJI drones** via the **DJI Cloud API**. Engineered for high-stakes professional environments—specifically **firefighting and emergency services**—Kite provides a secure, low-latency ecosystem for **real-time telemetry, mission command, and flight data intelligence**.
+**SBZPortal** is a sophisticated web-based hub designed for the seamless management of **DJI drones** via the **DJI Cloud API**. Engineered for high-stakes professional environments—specifically **firefighting and emergency services**—SBZPortal provides a secure, low-latency ecosystem for **real-time telemetry, mission command, and flight data intelligence**.
 
 ---
 
@@ -54,7 +54,7 @@
 
 ## 🔒 Security & Data Sovereignty
 
-* **End-to-End Encryption:** All communication between the DJI hardware and the Kite platform is fully encrypted.
+* **End-to-End Encryption:** All communication between the DJI hardware and the SBZPortal platform is fully encrypted.
 * **RBAC (Role-Based Access Control):** Granular permissions ensure operators only see the data relevant to their rank or mission.
 * **Sovereign Data Storage:** Flight logs and sensitive media remain within the organization’s controlled environment.
 
@@ -62,7 +62,7 @@
 
 ## 🚧 Roadmap & Development
 
-Kite is currently in **Closed Beta**, undergoing rigorous field testing with partner firefighting units. 
+SBZPortal is currently in **Closed Beta**, undergoing rigorous field testing with partner firefighting units. 
 
 **Coming Soon:**
 * Expanded multi-language support.
