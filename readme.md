@@ -68,6 +68,8 @@ Built for professional drone operators — especially **firefighting and emergen
 SBZ Portal is currently in a **closed testing phase**, accessible only to partner firefighting units and early evaluators.  
 Future updates will expand functionality, language support, and integration options within DJI’s evolving Cloud ecosystem.
 
+Note: Want to be notified when the repo goes live? Drop me a message or "Watch" this project!
+
 ---
 
 ## 📬 Contact & Inquiries
